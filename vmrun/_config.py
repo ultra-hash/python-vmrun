@@ -1,3 +1,5 @@
+executable="vmrun.exe"
+default_location="C:\Program Files (x86)\VMware\VMware Workstation"
 commands = {
     # Power - commands
     "power" : {
